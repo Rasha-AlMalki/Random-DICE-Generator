@@ -1,0 +1,18 @@
+body{
+  background-color: pink;
+  text-align: center;
+}
+.first{
+  width: 200px;
+  height: 200px;
+}
+h1{
+  text-decoration: underline;
+}
+h3{
+  color: red;
+}
+.second{
+  width: 200px;
+  height: 200px;
+}
